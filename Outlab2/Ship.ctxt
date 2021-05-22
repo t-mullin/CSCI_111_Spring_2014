@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=inShip\ inFuel
+comment0.target=Ship(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getShip()
+comment2.params=
+comment2.target=double\ getFuel()
+comment3.params=
+comment3.target=void\ deploy()
+comment4.params=
+comment4.target=double\ getFuelUsage()
+comment5.params=
+comment5.target=void\ reFuel()
+numComments=6

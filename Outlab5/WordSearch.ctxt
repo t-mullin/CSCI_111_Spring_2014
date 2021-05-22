@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=inArray
+comment0.target=WordSearch(char[][])
+comment1.params=
+comment1.target=void\ play()
+comment2.params=
+comment2.target=void\ printBoard()
+comment3.params=inWord
+comment3.target=void\ search(java.lang.String)
+comment4.params=inArray\ c
+comment4.target=boolean\ findRight(char[],\ int)
+comment5.params=r\ c
+comment5.target=boolean\ findDown(int,\ int)
+comment6.params=r\ c
+comment6.target=boolean\ findDiagonal(int,\ int)
+numComments=7

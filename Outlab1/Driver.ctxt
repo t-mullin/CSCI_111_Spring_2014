@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\ for\ outlab\ 1.\ \ Creates\ 3\ instances\ of\ Stock\r\n\ and\ prints\ information\ about\ them.\r\n
+comment1.params=stock
+comment1.target=void\ printInfo(Stock)
+comment1.text=\r\n\ Prints\ details\ about\ a\ stock.\r\n\ \r\n\ @param\ \ \ stock\ \ \ Some\ stock\r\n
+numComments=2

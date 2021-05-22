@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ build()
+comment1.params=
+comment1.target=void\ buildArray()
+comment10.params=r\ c\ newWord
+comment10.target=boolean\ checkDiagonal(int,\ int,\ java.lang.String)
+comment2.params=inHolder
+comment2.target=void\ replacePlaceholder(char)
+comment3.params=
+comment3.target=void\ printArray()
+comment4.params=
+comment4.target=void\ randomInsert()
+comment5.params=inWord
+comment5.target=void\ placeRight(java.lang.String)
+comment6.params=r\ c\ newWord
+comment6.target=boolean\ checkRight(int,\ int,\ java.lang.String)
+comment7.params=inWord
+comment7.target=void\ placeDown(java.lang.String)
+comment8.params=r\ c\ newWord
+comment8.target=boolean\ checkDown(int,\ int,\ java.lang.String)
+comment9.params=inWord
+comment9.target=void\ placeDiagonal(java.lang.String)
+numComments=11

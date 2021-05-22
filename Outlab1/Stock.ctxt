@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=inName\ inShares\ inPrice
+comment0.target=Stock(java.lang.String,\ int,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getShares()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=newShares
+comment4.target=void\ updateShares(int)
+comment5.params=
+comment5.target=double\ getValue()
+numComments=6

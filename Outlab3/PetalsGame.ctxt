@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PetalsGame()
+comment1.params=
+comment1.target=void\ rollDice()
+comment2.params=
+comment2.target=void\ printDice()
+comment3.params=inDice
+comment3.target=int\ collectPetals(int)
+comment4.params=
+comment4.target=int\ calculateAllPetals()
+comment5.params=
+comment5.target=int\ getPetals()
+numComments=6

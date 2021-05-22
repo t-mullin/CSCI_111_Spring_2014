@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=inName\ inCost\ inNumInStock
+comment0.target=GroceryItem(java.lang.String,\ double,\ int)
+comment1.params=change
+comment1.target=void\ updateNumInStock(int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double\ getCost()
+comment4.params=
+comment4.target=void\ printInventory()
+numComments=5

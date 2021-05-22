@@ -1,0 +1,13 @@
+1. The function doen't have to do alot of calculations for X^2 because it only uses one varible, 
+   x then times by x to find the height. 
+ 
+2. As the number of rectangles increases the width of each rectangle gets closer
+   and closer to 1, so at a point the base becomes negligible and heights 
+   are being added to the total area.
+ 
+3. The numericallyIntegrate takes in the paramaters, 
+   while the constructor is set to the default no arguement constructor.
+
+4. Since the driver doesn't call the default constructor; the static keyword allows
+   numericallyIntegrate to be executed without an instance of the 
+   Intergration class being created.

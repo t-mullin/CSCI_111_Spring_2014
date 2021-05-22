@@ -1,0 +1,8 @@
+1. Since there is no instance of the Recursion class 
+being made, the methods do not need to be accessed by 
+an instance of the class.
+
+2. Most of the methods are static becuase in the Math class
+all of the methods are also static. Yes, but that would involve 
+global variables and other methods to some of the work. The way
+the code is set up is the best for this application.
